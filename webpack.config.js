@@ -1,8 +1,7 @@
 module.exports = {
     entry: './index.jsx',
     output: {
-        filename: 'bundle.js',
-        publicPath: 'http://localhost:8090/public'
+        filename: 'bundle.js'
     },
     module: {
         loaders: [
