@@ -5,5 +5,4 @@ A start setup for React using ES6 and Webpack.
 ## Installation
 
   - `npm install`
-  - `npm start`
-
+  - `npm run start`
