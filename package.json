@@ -11,7 +11,11 @@
   "devDependencies": {
     "babel-core": "^4.4.3",
     "babel-loader": "^4.0.0",
+    "css-loader": "^0.23.1",
     "http-server": "^0.7.4",
+    "node-sass": "^3.7.0",
+    "sass-loader": "^3.2.0",
+    "style-loader": "^0.13.1",
     "webpack": "^1.5.3",
     "webpack-dev-server": "^1.7.0"
   },
@@ -20,5 +24,4 @@
     "serve": "./node_modules/.bin/http-server -p 8080",
     "dev": "webpack-dev-server --progress --colors --port 8090"
   }
-
 }
